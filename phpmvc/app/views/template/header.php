@@ -1,8 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
         <meta charset="UTF-8">
-        <title>Halaman Home</title>
-        <link rel="stylesheet" href="">
-</head>
-<body>
+        <title>halaman <?= $data['judul']; ?></title>
+        <link rel="stylesheet" href="http://localhost/phpmvc/public/css/bootstrap.css">
+    </head>
+    <body>
